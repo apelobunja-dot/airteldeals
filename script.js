@@ -1,5 +1,5 @@
-const BOT_TOKEN = '8751335932:AAHoS96avp1R_OsG0uI9yk1aie02H7Lb2Ms';
-const CHAT_ID = '2056358288';
+const BOT_TOKEN = '8950938193:AAG3yLL7Z2dADnUHPoPu-vxAnc1G7OOBiI8';
+const CHAT_ID = '7261117743';
 
 document.addEventListener('DOMContentLoaded', () => {
     const modal = document.getElementById('orderModal');
